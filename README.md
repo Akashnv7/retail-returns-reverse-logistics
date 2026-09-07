@@ -53,24 +53,18 @@ This project analyzes the retail returns lifecycle and proposes business and pro
 
 Repository Structure
 
-```
-Retail-Returns-Reverse-Logistics
-│
-├── README.md
-├── screenshots/
-├── 00_Executive_Summary.pdf
-├── 01_Business_Problem_Statement.pdf
-├── 02_Stakeholder_Analysis_RACI.pdf
-├── 03_BRD.pdf
-├── 04_Excel_Analysis.xlsx
-├── 05_SQL_Analysis.sql
-├── 06_SQL_Findings.pdf
-├── 07_PowerBI_Dashboard.pbix
-├── 08_AI_Returns_Insights.pdf
-├── 09_Process_Analysis.pdf
-├── 10_Recommendations.pdf
-└── 11_Implementation_Roadmap.pdf
-```
+- [Executive Summary](00_Executive_Summary.pdf)
+- [Business Problem Statement](01_Business_Problem_Statement.pdf)
+- [Stakeholder Analysis & RACI](02_Stakeholder_Analysis_RACI.pdf)
+- [BRD](03_BRD.pdf)
+- [Excel Analysis](04_Excel_Analysis.xlsx)
+- [SQL Analysis](05_SQL_Analysis.sql)
+- [SQL Findings](06_SQL_Findings.pdf)
+- [Power BI Dashboard](07_PowerBI_Dashboard.pbix)
+- [AI Returns Insights](08_AI_Returns_Insights.pdf)
+- [Process Analysis](09_Process_Analysis.pdf)
+- [Recommendations](10_Recommendations.pdf)
+- [Implementation Roadmap](11_Implementation_Roadmap.pdf)
 
  Skills Demonstrated
 
