@@ -1,79 +1,86 @@
  Retail Returns & Reverse Logistics Optimization
 
- 📌 Project Overview
+Business Analysis case study focused on improving the retail returns and reverse logistics process for an e-commerce retailer.
 
-This project is a Business Analysis case study focused on improving the retail returns management and reverse logistics process.
+## Dashboard Preview
 
-The project analyzes the current returns process, identifies business and operational gaps, and proposes a structured future-state solution to improve return visibility, customer experience, operational efficiency, and decision-making.
+![Power BI Dashboard](screenshots/PowerBI_Dashboard.png)
 
-🎯 Business Problem
+ Project Overview
 
-Retail returns can involve multiple teams such as customers, customer support, warehouses, finance, logistics, and management.
+This project analyzes the retail returns lifecycle and proposes business and process improvements to reduce cancellation losses, improve return visibility, and optimize reverse logistics operations.
 
-Without a clearly defined and trackable returns process, organizations may face:
+ Business Objectives
 
-- Poor visibility of return status
-- Delays in return processing
-- Inefficient coordination between teams
-- Limited return-related insights
-- Poor customer experience
+* Reduce cancellation rate.
+* Improve return process visibility.
+* Identify high-return products and countries.
+* Support data-driven decision making.
+* Recommend future-state process improvements.
 
-🎯 Project Objectives
+ Key Deliverables
 
-- Analyze the existing returns process
-- Identify process and business gaps
-- Define business and functional requirements
-- Design an improved future-state process
-- Analyze return-related data
-- Identify actionable business insights
-- Recommend improvements for returns and reverse logistics
-- Develop an implementation roadmap
+| Deliverable                 | Description                                        |
+| --------------------------- | -------------------------------------------------- |
+| Executive Summary           | Business overview and project summary              |
+| BRD                         | Business Requirements Document                     |
+| Stakeholder Analysis (RACI) | Roles and responsibilities                         |
+| SQL Analysis                | Returns and cancellation analysis using SQL        |
+| Excel Analysis              | KPI calculations and business insights             |
+| Power BI Dashboard          | Interactive returns dashboard                      |
+| AI Insights                 | AI-generated business insights and recommendations |
+| Process Analysis            | As-Is and To-Be process analysis                   |
+| Recommendations             | Business improvement recommendations               |
+| Implementation Roadmap      | Phased implementation strategy                     |
 
-🔍 Key BA Deliverables
+ Tools Used
 
-- Executive Summary
-- Business Problem Statement
-- Stakeholder Analysis & RACI
-- Business Requirements Document (BRD)
-- SQL Analysis & Findings
-- Power BI Dashboard
-- AI-Based Returns Insights
-- Process Analysis
-- Recommendations
-- Implementation Roadmap
+* SQL
+* Microsoft Excel
+* Power BI
+* Microsoft Word
+* AI-assisted Business Analysis
 
-🛠️ Tools & Technologies
+ Power BI Dashboard Highlights
 
-- Microsoft Word
-- Microsoft Excel
-- SQL
-- Power BI
-- AI
-- Business Process Analysis
-- Requirements Analysis
-- Stakeholder Analysis
-- RACI
-- BRD
+* 1M Total Transactions
+* 19K Cancelled Transactions
+* 1.83% Cancellation Rate
+* Monthly Cancellation Trend
+* Top 10 Cancelled Products
+* Top Countries by Cancellations
+* Year-wise Cancellation Rate
 
-📊 Project Approach
+Repository Structure
 
-The project follows a structured Business Analysis approach:
+```
+Retail-Returns-Reverse-Logistics
+│
+├── README.md
+├── screenshots/
+├── 00_Executive_Summary.pdf
+├── 01_Business_Problem_Statement.pdf
+├── 02_Stakeholder_Analysis_RACI.pdf
+├── 03_BRD.pdf
+├── 04_Excel_Analysis.xlsx
+├── 05_SQL_Analysis.sql
+├── 06_SQL_Findings.pdf
+├── 07_PowerBI_Dashboard.pbix
+├── 08_AI_Returns_Insights.pdf
+├── 09_Process_Analysis.pdf
+├── 10_Recommendations.pdf
+└── 11_Implementation_Roadmap.pdf
+```
 
-**Business Problem → Stakeholder Analysis → Requirements → Data Analysis → Process Analysis → Insights → Recommendations → Implementation Roadmap**
+ Skills Demonstrated
 
-## 📈 Expected Business Benefits
-
-The proposed improvements aim to:
-
-- Improve return process visibility
-- Reduce processing delays
-- Improve cross-functional coordination
-- Enhance customer experience
-- Support data-driven decision-making
-- Improve reverse logistics efficiency
-
-👤 Role
-
-**Business Analyst / Project Analyst
-
-Responsibilities included business problem analysis, stakeholder analysis, requirements gathering, process analysis, SQL analysis, dashboard development, AI-assisted insights, and solution recommendations.
+* Business Analysis
+* Requirements Gathering
+* Stakeholder Management
+* SQL Data Analysis
+* Excel Analytics
+* Power BI Dashboarding
+* Process Mapping
+* Gap Analysis
+* RACI Matrix
+* Reverse Logistics Optimization
